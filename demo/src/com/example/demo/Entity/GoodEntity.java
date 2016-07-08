@@ -1,7 +1,7 @@
 package com.example.demo.Entity;
 
 /**
- * @author Administrator
+ * @author hx *****************************
  *
  */
 public class GoodEntity 
