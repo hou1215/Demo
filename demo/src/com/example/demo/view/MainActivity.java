@@ -22,7 +22,7 @@ public class MainActivity extends FragmentActivity {
 	
 
     /**
-     * mFragmentArray 用于存放 fragment 对象
+     * mFragmentArray 用于存放 fragment 对象 ********************************************************
      */
     private Fragment[] mFragmentArray=new Fragment[4];
     /**
