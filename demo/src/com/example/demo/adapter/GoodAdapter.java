@@ -34,7 +34,7 @@ public class GoodAdapter extends BaseAdapter{
         bitmapUtils.configDefaultLoadFailedImage(R.drawable.juhuasuan);
         bitmapUtils.configDefaultBitmapConfig(Bitmap.Config.RGB_565);
 
-        //bitmapUtils.configMemoryCacheEnabled(false);
+        //bitmapUtils.configMemoryCacheEnabled(false)************************************************************;
         //bitmapUtils.configDiskCacheEnabled(false);
 
         //bitmapUtils.configDefaultAutoRotation(true);
