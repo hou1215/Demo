@@ -1,3 +1,7 @@
 add log.txt into bransh 1.0 !!!
+<<<<<<< HEAD
 change log.txt file  !!!
 change log.txt 123
+=======
+change log.txt file  !!!
+>>>>>>> 076817af84b200210f5ecb337665715cc8f8fba2
